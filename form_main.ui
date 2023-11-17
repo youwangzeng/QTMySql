@@ -129,6 +129,19 @@ background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0
     </item>
    </layout>
   </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>-200</y>
+     <width>79</width>
+     <height>426</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
